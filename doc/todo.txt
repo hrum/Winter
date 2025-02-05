@@ -1,0 +1,6 @@
+
+
+
+- commit
+- create first prototype
+- think on solo mode (survive as long as possible)

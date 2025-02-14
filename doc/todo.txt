@@ -1,6 +1,37 @@
+- ask on reddit about games where players lose but get some points
+- make deck for each branch
+- each building has 3 levels
+- player does not get card
+- buildings can not be sold
+- player can discard up to 2 cards
+- building may affect: income of player, income of player to the left, resources of player to the left
+- think what effects can buildings have
+
+- create simple prototype
+
+
+- what is average income of building
+- what is average cost of building
+
+- first income +0, second income +1, and so on
+- check hearthstone
+
+
+- finalize for water
+- finalize for food
+- finalize for building materials
+- finalize for gold
+
+- buildings deck
 
 
 
-- commit
+
+
+
+- events deck
+
+
+- check what else need for first prototype
 - create first prototype
 - think on solo mode (survive as long as possible)

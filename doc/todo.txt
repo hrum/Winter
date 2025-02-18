@@ -1,5 +1,26 @@
-- make it interactive: 1, 2, 3, 4, 5 change value of this
+- think on buildings
+- each building may change income and/or consumption
 
+- make buildings more random
+- player should use dices when build it
+- buildings may be risky
+- use three zones: green, yellow, red?
+- player uses energy to re-roll dices
+- one roll for both income and consumption
+- remove consumption at all
+- buildings which decreases all opponents income
 
-- create simple prototype
-- check what else need for simple prototype
+- use market system similar to small world
+
+- санитарная, пожарная, налоговая, государственная инспекция
+- each player takes inspection card
+
+=================================================
+- player pad should include both income and consumption
+- make consumption to be different for each player
+- make it just gold and energy
+- use tokens for gold and energy
+
+- create prototype
+- test prototype
+- write feedback

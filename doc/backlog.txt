@@ -1,2 +1,2 @@
-- think on synergies between buildings
+- values on pads should be in headers, not in cells
 - think on adding characters

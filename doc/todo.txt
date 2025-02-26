@@ -1,26 +1,14 @@
-- think on buildings
-- each building may change income and/or consumption
+- player takes 1 energy for sum of dices less than 3
+- make buildings more risky?
+- add some talents/specializations (players can buy them for gold)
+- specialization in branch
+- specialization in size (small, medium, large)
+- specialization in risk (small, medium, large)
+- make income more smooth and field to be longer?
+- use energy to increase your result?
+- player takes energy during income phase? (depending on where his chip is located)
 
-- make buildings more random
-- player should use dices when build it
-- buildings may be risky
-- use three zones: green, yellow, red?
-- player uses energy to re-roll dices
-- one roll for both income and consumption
-- remove consumption at all
-- buildings which decreases all opponents income
+- check why cards were so small
 
-- use market system similar to small world
 
-- санитарная, пожарная, налоговая, государственная инспекция
-- each player takes inspection card
-
-=================================================
-- player pad should include both income and consumption
-- make consumption to be different for each player
-- make it just gold and energy
-- use tokens for gold and energy
-
-- create prototype
-- test prototype
-- write feedback
+- make inspection cards

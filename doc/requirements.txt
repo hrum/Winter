@@ -6,3 +6,9 @@ INCOME
 - bonus should be about 50% of salary
 - income should not increase too much (about x2)
 - salary and bonus should be natural numbers
+
+BUILDINGS
+- 36 buildings
+- 6 branches
+- prices: 2, 4, 6, 8, 10, 12
+- some property for each branch

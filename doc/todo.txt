@@ -1,14 +1,8 @@
-- player takes 1 energy for sum of dices less than 3
-- make buildings more risky?
-- add some talents/specializations (players can buy them for gold)
-- specialization in branch
-- specialization in size (small, medium, large)
-- specialization in risk (small, medium, large)
-- make income more smooth and field to be longer?
-- use energy to increase your result?
-- player takes energy during income phase? (depending on where his chip is located)
+- check what is else required
 
+=================================================
 - check why cards were so small
+- make prototype
+- play test
+- write feedback
 
-
-- make inspection cards

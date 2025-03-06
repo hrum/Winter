@@ -2,7 +2,7 @@ MISC
 - санитарная, пожарная, налоговая, государственная инспекция
 - use four zones: 87, 65, 43, 21
 - bonus for building card from column where player stands?
-- add energy sign to the dice
+- can't re-roll dices (property)
 
 INTERACTION
 - think on interaction between players (is it enough?)
@@ -13,10 +13,3 @@ INTERACTION
 CHARACTERS
 - add character with experience in one of 6 branches
 - player gets +1 to sum of dices, when he makes building from his branch
-- character gets compensation if anyone else makes buildings from his branch
-
-DICES
-- can use 3 dices
-
-BUILDINGS
-- make some model and formula (for good balance, and fast changes)

@@ -1,8 +1,8 @@
-- check what is else required
+- check rules
 
-=================================================
-- check why cards were so small
-- make prototype
+- print game field
+- print talent cards
+
+
 - play test
 - write feedback
-

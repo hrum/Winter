@@ -1,15 +1,5 @@
-MISC
-- санитарная, пожарная, налоговая, государственная инспекция
-- use four zones: 87, 65, 43, 21
-- bonus for building card from column where player stands?
-- can't re-roll dices (property)
+RULES
+- update rules
 
-INTERACTION
-- think on interaction between players (is it enough?)
-- check link https://www.youtube.com/watch?v=OJUFN0w5670
-- ask mom
-- ask vk
-
-CHARACTERS
-- add character with experience in one of 6 branches
-- player gets +1 to sum of dices, when he makes building from his branch
+QUOTES
+Коррупция должна быть не просто незаконной. Она должна стать неприличной.

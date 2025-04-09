@@ -5,19 +5,17 @@ import java.util.*;
 public class BuildingGenerator {
 
     private static final int LEVELS = 5;
-    private static final int LOWER_BOUND = 1;
-    private static final int UPPER_BOUND = 12;
+    private static final int LOWER_BOUND = -3;
+    private static final int UPPER_BOUND = 10;
     private static final double ERROR_RATE = 0.55;
 
     public static void main(String[] args) {
         BuildingGenerator generator = new BuildingGenerator();
-        /*for(int price = 2; price <= 12; price +=2) {
+        for(int price = 2; price <= 12; price +=2) {
             TreeMap<Double, List<Integer>> solutions = generator.generate(generator.getIncomeEV(price));
             generator.select(solutions, 6);
             System.out.println();
-        }*/
-        TreeMap<Double, List<Integer>> solutions = generator.generate(7);
-        generator.select(solutions, 18);
+        }
     }
 
     private TreeMap<Double, List<Integer>> generate(double ev) {

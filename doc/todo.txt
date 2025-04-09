@@ -1,8 +1,12 @@
-- check rules
-
-- print game field
-- print talent cards
+- check everything
 
 
-- play test
-- write feedback
+
+- update prototype (create a list what need to be updated)
+
+- update buildings (2-4, 5-6, 7, 8-9, 10-12)
+- update talents
+==================================
+- copy field from messages
+- update dices
+- update game field
